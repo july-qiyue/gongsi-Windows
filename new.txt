@@ -1,1 +1,1 @@
-git is free software
+THis is a text file !
